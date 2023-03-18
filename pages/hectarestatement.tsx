@@ -186,7 +186,7 @@ export default function hectarestatement() {
             <Row style={{ padding: "1rem" }}>
                 <Col xl={5} style={{ padding: ".5rem" }}>
                     <Heading as='h4' size='md'>
-                        Query Hestate Statement
+                        Query Hectares Statement
                     </Heading>
                     <br />
                     <FormControl isInvalid={isError} isRequired>
